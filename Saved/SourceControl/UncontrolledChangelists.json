@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/users/hp/Documents/Unreal Projects/UnreaLearningPart2/Content/Rotating_Obstacle.uasset",
+				"F:/users/hp/Documents/Unreal Projects/UnreaLearningPart2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"F:/users/hp/Documents/Unreal Projects/UnreaLearningPart2/Content/ball_obstacle.uasset",
+				"C:/Users/kunal/Gamedev/Unreal/UnreaLearningPart2/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/kunal/Gamedev/Unreal/UnreaLearningPart2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/kunal/Gamedev/Unreal/UnreaLearningPart2/Content/ThirdPersonCharacter_Blueprint.uasset",
+				"C:/Users/kunal/Gamedev/Unreal/UnreaLearningPart2/Content/BP_GameMode.uasset",
+				"C:/Users/kunal/Gamedev/Unreal/UnreaLearningPart2/Content/BP_MyActor.uasset",
+				"C:/Users/kunal/Gamedev/Unreal/UnreaLearningPart2/Content/BP_Obstacle.uasset"
+			]
+		}
+	]
+}
